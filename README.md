@@ -9,7 +9,10 @@
   - [Internal Audit(certification project)](https://github.com/himanshu-gidwani/Internal-audit/tree/main)
 - <b>Machine Learning</b>
   - [Credit Card Fraud Detection](https://github.com/himanshu-gidwani/credit_card_fraud_detection)
-
+- <b>Linux</b>
+  - [Use Linux commands to manage file permissions](https://github.com/himanshu-gidwani/Use-Linux-commands-to-manage-file-permissions)
+- <b>SQL</b>
+  - [Apply filters to SQL queries](https://github.com/himanshu-gidwani/Apply-filters-to-SQL-queries)
 <h2>📄 Certifications</h2>
 •	Currently Pursuing: Blue Team Level 1 security</br>
 •	Google Cybersecurity (JUNE 2023)</br>
