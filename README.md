@@ -32,9 +32,6 @@
 [<img align="left" alt="Himanshu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Himanshu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Himansh87325134
-[youtube]: https://www.youtube.com/@kyaseekha3977/videos
-[instagram]: https://www.instagram.com/him4nshu_gidw4ni/
-[linkedin]: https://www.linkedin.com/in/himanshu-gidwani/
+
 
 
