@@ -25,7 +25,7 @@
 
 <h2> 👤Profiles:</h2>
 - <b>Tryhackme: https://tryhackme.com/p/abc007</b></br>
-- <b>Blue Team Labs Online: https://blueteamlabs.online/public/user/b0a6865b9e514c5a005130</b>
+- <b>Blue Team Labs Online: https://blueteamlabs.online/public/user/b0a6865b9e514c5a005130</b></br>
 - <b>Lets Defend: https://app.letsdefend.io/user/abc007</b>
 <h2> 🤳 Connect with me:</h2>
 
