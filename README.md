@@ -14,13 +14,14 @@
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://github.com/himanshu-gidwani/Apply-filters-to-SQL-queries)
 <h2>📄 Certifications</h2>
-•	Currently Pursuing: Blue Team Level 1 security</br>
+•	Comptia Security+ (2025)</br>
 •	Google Cybersecurity (JUNE 2023)</br>
 •	IBM Cybersecurity Analyst (APRIL 2023)</br>
 •	Ethical Hacking (Internshala) (JUNE 2022)</br>
 •	Practical Ethical Hacking (TCM security) (MAY 2022)</br>
 •	Ethical Hacking from Scratch (Zsecurity) (NOVEMBER 2021)</br>
 •	Attack Methodologies in IT and ICS (US homeland Security) (OCTOBER 2021)</br>
+
 
 <h2> 👤Profiles:</h2>
 - <b>Tryhackme: https://tryhackme.com/p/HimanshuGidwani</b></br>
